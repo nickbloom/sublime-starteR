@@ -1,0 +1,6 @@
+[
+ {"command": "create_pane", "args": {"direction": "right"}},
+ {"command": "run_existing_window_command", "args": {
+ 	"file": "config/R/Main.sublime-menu", 
+ 	"id": "repl_r"}}
+]
